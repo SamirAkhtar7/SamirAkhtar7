@@ -27,10 +27,6 @@
 
  - 💬 Ask me about Full-Stack and DSA.
 
- - 🪶 Earned the postman API Fundamentals Student Expert badge from Postman.
-
- - 🎉 Selected as a Contributor for GirlScript Summer of Code 2024 - Extended Edition!
-
  - 👯 I’m looking to collaborate on open source projects related to web development.
 
  - 📫 Reach me through mail samir.akhtar444@gmail.com
